@@ -48,5 +48,7 @@
 #### 2-2.削除
 
 #### 2-3.単語編集
+単語を一覧からコピー&ペーストし該当単語の詳細について編集することができます
+<img width="600" alt="wordedit" src="https://user-images.githubusercontent.com/39941977/88923306-7c4f4880-d2ac-11ea-97cd-85cfdbd54092.png">  
 
 ### 3.テスト
