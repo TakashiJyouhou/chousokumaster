@@ -42,13 +42,21 @@
 <img width="500" alt="Edit" src="https://user-images.githubusercontent.com/39941977/88919074-773acb00-d2a5-11ea-9471-76e0bf84a1ea.png">  
 
 #### 2-1.追加
+単語、もしくは頻度の追加ができます  
 <img width="600" alt="add1" src="https://user-images.githubusercontent.com/39941977/88920730-4c05ab00-d2a8-11ea-8306-5451777f8169.png">  
 <img width="600" alt="add2" src="https://user-images.githubusercontent.com/39941977/88920751-51fb8c00-d2a8-11ea-8293-cc9108070ac4.png">  
 
 #### 2-2.削除
+単語の削除を削除ができます  
+<img width="600" alt=" delete" src="https://user-images.githubusercontent.com/39941977/88924850-c20d1080-d2ae-11ea-9af2-f60096cabdb4.png">  
 
 #### 2-3.単語編集
 単語を一覧からコピー&ペーストし該当単語の詳細について編集することができます
 <img width="600" alt="wordedit" src="https://user-images.githubusercontent.com/39941977/88923306-7c4f4880-d2ac-11ea-97cd-85cfdbd54092.png">  
 
 ### 3.テスト
+テストは2種類  
+実際の期末試験で問われる日本語訳と意味の解説を4択から選んでいきます  
+問題は__頻度が高い単語ほど出題されやすく__なっています!  
+<img width="600" alt="test" src="https://user-images.githubusercontent.com/39941977/88925063-013b6180-d2af-11ea-936e-c0e61aaf1d20.png">  
+<img width="600" alt="result" src="https://user-images.githubusercontent.com/39941977/88925069-026c8e80-d2af-11ea-881c-db5e66c60680.png">  
