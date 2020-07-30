@@ -30,6 +30,7 @@
 <img width="500" alt="show" src="https://user-images.githubusercontent.com/39941977/88917706-30e46c80-d2a3-11ea-9e2e-f8a0657ca255.png">  
 ・また、単語をクリックしてコピー&ペーストをすることもできます  
 <img width="500" alt="copy_post" src="https://user-images.githubusercontent.com/39941977/88918234-1d85d100-d2a4-11ea-958e-1568d92fb60f.png">  
+
 ### 2.編集
 コースの単語一覧を編集することができます  
 機能は
@@ -37,6 +38,7 @@
 - 削除
 - 単語編集  
 <img width="500" alt="Edit" src="https://user-images.githubusercontent.com/39941977/88919074-773acb00-d2a5-11ea-9471-76e0bf84a1ea.png">  
+
 #### 2-1.追加
 <img width="750" alt="add1" src="https://user-images.githubusercontent.com/39941977/88920730-4c05ab00-d2a8-11ea-8306-5451777f8169.png">  
 <img width="750" alt="add2" src="https://user-images.githubusercontent.com/39941977/88920751-51fb8c00-d2a8-11ea-8293-cc9108070ac4.png">  
