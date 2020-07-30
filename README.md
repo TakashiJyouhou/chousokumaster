@@ -8,7 +8,7 @@
 <br>これらの期末試験で出題される英単語問題の反復学習を目的に作成しました。<br/>
 <img width="500" alt="home" src="https://user-images.githubusercontent.com/39941977/88917055-19f14a80-d2a2-11ea-92c0-519d1a1ab321.png">
 
-<br>(利用するには java を実行することができる環境が必要です)<br/>
+<br>(利用するには java を実行できる環境が必要です)<br/>
 <br>・コースごとに単語一覧と、テスト 機能を利用できます<br/>
 <br>・背景はコースによって異なるものが用意されています<br/>
 <img width="500" alt="menu" src="https://user-images.githubusercontent.com/39941977/88917295-80766880-d2a2-11ea-91d3-4a2cd3479d4e.png">
