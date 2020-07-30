@@ -57,6 +57,6 @@
 ### 3.テスト
 テストは2種類  
 実際の期末試験で問われる日本語訳と意味の解説を4択から選んでいきます  
-問題は__頻度が高い単語ほど出題されやすく__なっています!  
+問題は __頻度が高い単語ほど出題されやすく__ なっています  
 <img width="600" alt="test" src="https://user-images.githubusercontent.com/39941977/88925063-013b6180-d2af-11ea-936e-c0e61aaf1d20.png">  
 <img width="600" alt="result" src="https://user-images.githubusercontent.com/39941977/88925069-026c8e80-d2af-11ea-881c-db5e66c60680.png">  
