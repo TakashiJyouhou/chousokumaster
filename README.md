@@ -11,8 +11,9 @@
 単語の頻出度に基づいた出題によって超速に期末試験対策を行うことができます  
 (これらの科目は単語問題と、わずかな他問題の対策を行えば単位取得が望めます)  
 <img width="500" alt="home" src="https://user-images.githubusercontent.com/39941977/88917055-19f14a80-d2a2-11ea-92c0-519d1a1ab321.png">  
-利用するには java を実行できる環境が必要
-[JDK install](https://eng-entrance.com/java-install-jdk-windows)  
+利用するには java を実行できる環境が必要  
+[JDK install](https://www.oracle.com/java/technologies/javase-downloads.html)  
+[JDK setup](https://eng-entrance.com/java-install-jdk-windows)  
   
 ・コースごとに単語一覧と、テスト 機能を利用できます  
 ・背景はコースによって異なるものが用意されています  
