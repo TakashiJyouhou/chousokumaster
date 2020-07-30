@@ -40,8 +40,8 @@
 <img width="500" alt="Edit" src="https://user-images.githubusercontent.com/39941977/88919074-773acb00-d2a5-11ea-9471-76e0bf84a1ea.png">  
 
 #### 2-1.追加
-<img width="750" alt="add1" src="https://user-images.githubusercontent.com/39941977/88920730-4c05ab00-d2a8-11ea-8306-5451777f8169.png">  
-<img width="750" alt="add2" src="https://user-images.githubusercontent.com/39941977/88920751-51fb8c00-d2a8-11ea-8293-cc9108070ac4.png">  
+<img width="600" alt="add1" src="https://user-images.githubusercontent.com/39941977/88920730-4c05ab00-d2a8-11ea-8306-5451777f8169.png">  
+<img width="600" alt="add2" src="https://user-images.githubusercontent.com/39941977/88920751-51fb8c00-d2a8-11ea-8293-cc9108070ac4.png">  
 
 #### 2-2.削除
 
